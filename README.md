@@ -1,3 +1,6 @@
+I created this because there's a lot of repeated images in my pc and I want to find and organize them. 
+
+
 **TODO:**    
     
     - When there's only one image it fails as it can't iterate through
